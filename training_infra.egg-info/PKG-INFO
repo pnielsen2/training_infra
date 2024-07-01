@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: training-infra
+Version: 0.1
+Summary: ML Training Infrastructure
+Author: Philip Nielsen
+Author-email: pnielsen2@outlook.com
+License: MIT
+Keywords: Machine Learning
+License-File: LICENSE

@@ -1,0 +1,16 @@
+LICENSE
+README.md
+setup.py
+training_infra/__init__.py
+training_infra/activations.py
+training_infra/configs.py
+training_infra/dataset_loaders.py
+training_infra/losses.py
+training_infra/main.py
+training_infra/networks.py
+training_infra.egg-info/PKG-INFO
+training_infra.egg-info/SOURCES.txt
+training_infra.egg-info/dependency_links.txt
+training_infra.egg-info/requires.txt
+training_infra.egg-info/top_level.txt
+training_infra/tests/__init__.py
